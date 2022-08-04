@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KidaneYosief
 - 👀 I’m interested in ... DevOps
-- 🌱 I’m currently learning ... AWS and Ansible
+- 🌱 I’m currently learning ... AWS, Terraform and Ansible
 - 💞️ I’m looking to collaborate on ... DevOps technologies and solutions
 - 📫 How to reach me ... kidaneokbu@gmail.com
 
